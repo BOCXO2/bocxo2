@@ -14,7 +14,7 @@
 - 😄 Fun fact: I'm a student BSU
 - 🔭 I’m looking to collaborate on commercial projects and startups.
 - 📫 How to reach me:
-  Email - oprishko.stas@bk.ru
-  Telegram - @bocxo2
-  Leetcode - https://leetcode.com/u/BOCXO2/
+-   Email - oprishko.stas@bk.ru
+-   Telegram - @bocxo2
+-   Leetcode - https://leetcode.com/u/BOCXO2/
 </div>
