@@ -1,16 +1,20 @@
-### Hi there 👋
+## Hi, I am Oprishko Stanislav 👋
+❤️ I prefer Python
 
-<!--
-**BOCXO2/bocxo2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+✨ I study: Python, C++.
 
-Here are some ideas to get you started:
+<img align="right" src="https://octodex.github.com/images/welcometocat.png" width="300">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### My stack:
+- 🏆 Chat bots (Telegram)
+- ❤️ QT Creator, Docker, Git, SQLite.
+- HTML/CSS/
+
+### About me:
+- 😄 Fun fact: I'm a student BSU
+- 🔭 I’m looking to collaborate on commercial projects and startups.
+- 📫 How to reach me:
+  Email - oprishko.stas@bk.ru
+  Telegram - @bocxo2
+  Leetcode - https://leetcode.com/u/BOCXO2/
+</div>
