@@ -7,7 +7,7 @@
 
 ### My stack:
 - 🏆 Chat bots (Telegram), Laboratory work (C++, QT), Stepik Course (Python).
-- ❤️ QT Creator, Docker, Git, SQLite.
+- ❤️ QT Creator, Docker, Git, SQLite, Pygame, Jupyter Notebook.
 - HTML/CSS/
 
 ### About me:
