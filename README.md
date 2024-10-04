@@ -1,13 +1,13 @@
 ## Hi, I am Oprishko Stanislav 👋
-❤️ I prefer Python
 
-✨ I study: Python, C++.
+✨ I study: Python, C++, Java.
 
 <img align="right" src="https://octodex.github.com/images/welcometocat.png" width="300">
 
 ### My stack:
 - 🏆 Store(Django), Chat bots (Telegram), Laboratory work (C++, QT), Stepik Course (Python).
-- ❤️ QT Creator, Docker, Git, SQLite, Pygame, Jupyter Notebook Django, Linux.
+- ❤️ QT Creator, Docker, Git, SQLite, Pygame, Jupyter Notebook Django.
+- (OS) - Windows, Linux, MacOS.
 - HTML/CSS/
 
 ### About me:
