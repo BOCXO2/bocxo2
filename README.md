@@ -16,5 +16,4 @@
 - 📫 How to reach me:
 -   Email - oprishko.stas@bk.ru
 -   Telegram - @bocxo2
--   [Leetcode](https://leetcode.com/u/BOCXO2/)
 </div>
