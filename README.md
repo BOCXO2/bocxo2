@@ -24,7 +24,7 @@
   <a href="mailto:oprishko.stas@bk.ru">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
-  <a href="https://linkedin.com/in/your-linkedin" target="_blank">
+  <a href="https://www.linkedin.com/in/%D1%81%D1%82%D0%B0%D0%BD%D0%B8%D1%81%D0%BB%D0%B0%D0%B2-%D0%BE%D0%BF%D1%80%D0%B8%D1%88%D0%BA%D0%BE-776541333/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
   <a href="https://your-portfolio-link" target="_blank">
