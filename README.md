@@ -37,7 +37,7 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=python,django,fastapi,html,css,git,github,docker,linux,vscode,mysql,sqlite,java" /><br>
+    <img src="https://skillicons.dev/icons?i=python,django,fastapi,html,css,git,github,docker,linux,vscode,mysql,sqlite,java&theme=dark" alt="Languages and Tools" />
 </div>
 
 <br/>
@@ -60,5 +60,3 @@
 <div align="center">
 <a href='https://ko-fi.com/bocxo2#payment-widget' target='_blank'><img height='64' style='border:0px;height:64px;' src='https://storage.ko-fi.com/cdn/kofi1.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
 </div>
-
-<br/>
