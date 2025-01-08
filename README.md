@@ -37,7 +37,19 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=python,django,fastapi,html,css,git,github,docker,linux,vscode,mysql,sqlite,java&theme=dark" alt="Languages and Tools" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" width="50" height="50" alt="Python" />
+    <img src="https://static.djangoproject.com/img/logos/django-logo-negative.svg" width="90" height="50" alt="Django" />
+    <img src="https://fastapi.tiangolo.com/img/logo-margin/logo-teal.png" width="50" height="50" alt="FastAPI" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" width="50" height="50" alt="HTML" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" width="50" height="50" alt="CSS" />
+    <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" width="50" height="50" alt="Git" />
+    <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="50" height="50" alt="GitHub" />
+    <img src="https://www.docker.com/wp-content/uploads/2022/03/Moby-logo.png" width="50" height="50" alt="Docker" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/a/af/Tux.png" width="50" height="50" alt="Linux" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" width="50" height="50" alt="VSCode" />
+    <img src="https://upload.wikimedia.org/wikipedia/en/d/dd/MySQL_logo.svg" width="70" height="50" alt="MySQL" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/SQLite370.svg" width="50" height="50" alt="SQLite" />
+    <img src="https://upload.wikimedia.org/wikipedia/en/3/30/Java_programming_language_logo.svg" width="50" height="50" alt="Java" />
 </div>
 
 <br/>
