@@ -27,7 +27,7 @@
   <a href="https://www.linkedin.com/in/%D1%81%D1%82%D0%B0%D0%BD%D0%B8%D1%81%D0%BB%D0%B0%D0%B2-%D0%BE%D0%BF%D1%80%D0%B8%D1%88%D0%BA%D0%BE-776541333/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
-  <a href="[https://your-portfolio-link](https://www.canva.com/design/DAGbp6glrLQ/nKNPhqcOw9nYihfFUZTN7Q/edit?utm_content=DAGbp6glrLQ&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)" target="_blank">
+  <a href="https://www.canva.com/design/DAGbp6glrLQ/nKNPhqcOw9nYihfFUZTN7Q/edit?utm_content=DAGbp6glrLQ&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton">
      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" />
   </a>
 </div>
