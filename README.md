@@ -34,55 +34,58 @@
 
  <hr/>
  
-## 💪 Skills
+<h2>💪 Skills</h2>
 
-- **Programming Languages**:  
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)  
-![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white)  
-![C++](https://img.shields.io/badge/-C%2B%2B-00599C?logo=cplusplus&logoColor=white)  
-![C#](https://img.shields.io/badge/-C%23-239120?logo=c-sharp&logoColor=white)  
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)  
-![HTML](https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=white)  
-![CSS](https://img.shields.io/badge/-CSS-1572B6?logo=css3&logoColor=white)
-
-- **Databases**:  
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white)  
-![SQLite](https://img.shields.io/badge/-SQLite-003B57?logo=sqlite&logoColor=white)  
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white)
-
-- **Web Development**:  
-![Django](https://img.shields.io/badge/-Django-092E20?logo=django&logoColor=white)  
-![FastAPI](https://img.shields.io/badge/-FastAPI-009688?logo=fastapi&logoColor=white)  
-![Flask](https://img.shields.io/badge/-Flask-000000?logo=flask&logoColor=white)  
-![HTML](https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=white)  
-![CSS](https://img.shields.io/badge/-CSS-1572B6?logo=css3&logoColor=white)
-
-- **Tools**:  
-![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)  
-![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white)  
-![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)  
-![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black)  
-![VS Code](https://img.shields.io/badge/-VS%20Code-0078D4?logo=visualstudiocode&logoColor=white)  
-![Qt](https://img.shields.io/badge/-Qt-41CD52?logo=qt&logoColor=white)
-
-- **Frameworks**:  
-![Django](https://img.shields.io/badge/-Django-092E20?logo=django&logoColor=white)  
-![FastAPI](https://img.shields.io/badge/-FastAPI-009688?logo=fastapi&logoColor=white)  
-![Flask](https://img.shields.io/badge/-Flask-000000?logo=flask&logoColor=white)  
-![Qt](https://img.shields.io/badge/-Qt-41CD52?logo=qt&logoColor=white)
-
-- **Libraries & Others**:  
-![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?logo=opencv&logoColor=white)  
-![NumPy](https://img.shields.io/badge/-NumPy-013243?logo=numpy&logoColor=white)  
-![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557C?logo=python&logoColor=white)  
-![Tkinter](https://img.shields.io/badge/-Tkinter-007ACC?logo=python&logoColor=white)  
-![Pygame](https://img.shields.io/badge/-Pygame-3776AB?logo=python&logoColor=white)  
-![Telebot](https://img.shields.io/badge/-Telebot-2CA5E0?logo=telegram&logoColor=white)
-
-- **Other Skills**:  
-![Algorithms](https://img.shields.io/badge/-Algorithms-000000?logo=bookstack&logoColor=white)  
-![Data Structures](https://img.shields.io/badge/-Data%20Structures-000000?logo=bookstack&logoColor=white)  
-![Multithreading](https://img.shields.io/badge/-Multithreading-FFD700?logo=threads&logoColor=black)
+<ul>
+  <li><strong>Programming Languages:</strong><br>
+    <img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white" alt="Python">
+    <img src="https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white" alt="Java">
+    <img src="https://img.shields.io/badge/-C%2B%2B-00599C?logo=cplusplus&logoColor=white" alt="C++">
+    <img src="https://img.shields.io/badge/-C%23-239120?logo=c-sharp&logoColor=white" alt="C#">
+    <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black" alt="JavaScript">
+    <img src="https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=white" alt="HTML">
+    <img src="https://img.shields.io/badge/-CSS-1572B6?logo=css3&logoColor=white" alt="CSS">
+  </li>
+  <li><strong>Databases:</strong><br>
+    <img src="https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white" alt="MySQL">
+    <img src="https://img.shields.io/badge/-SQLite-003B57?logo=sqlite&logoColor=white" alt="SQLite">
+    <img src="https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white" alt="PostgreSQL">
+  </li>
+  <li><strong>Web Development:</strong><br>
+    <img src="https://img.shields.io/badge/-Django-092E20?logo=django&logoColor=white" alt="Django">
+    <img src="https://img.shields.io/badge/-FastAPI-009688?logo=fastapi&logoColor=white" alt="FastAPI">
+    <img src="https://img.shields.io/badge/-Flask-000000?logo=flask&logoColor=white" alt="Flask">
+    <img src="https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=white" alt="HTML">
+    <img src="https://img.shields.io/badge/-CSS-1572B6?logo=css3&logoColor=white" alt="CSS">
+  </li>
+  <li><strong>Tools:</strong><br>
+    <img src="https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white" alt="Git">
+    <img src="https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white" alt="GitHub">
+    <img src="https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white" alt="Docker">
+    <img src="https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black" alt="Linux">
+    <img src="https://img.shields.io/badge/-VS%20Code-0078D4?logo=visualstudiocode&logoColor=white" alt="VS Code">
+    <img src="https://img.shields.io/badge/-Qt-41CD52?logo=qt&logoColor=white" alt="Qt">
+  </li>
+  <li><strong>Frameworks:</strong><br>
+    <img src="https://img.shields.io/badge/-Django-092E20?logo=django&logoColor=white" alt="Django">
+    <img src="https://img.shields.io/badge/-FastAPI-009688?logo=fastapi&logoColor=white" alt="FastAPI">
+    <img src="https://img.shields.io/badge/-Flask-000000?logo=flask&logoColor=white" alt="Flask">
+    <img src="https://img.shields.io/badge/-Qt-41CD52?logo=qt&logoColor=white" alt="Qt">
+  </li>
+  <li><strong>Libraries & Others:</strong><br>
+    <img src="https://img.shields.io/badge/-OpenCV-5C3EE8?logo=opencv&logoColor=white" alt="OpenCV">
+    <img src="https://img.shields.io/badge/-NumPy-013243?logo=numpy&logoColor=white" alt="NumPy">
+    <img src="https://img.shields.io/badge/-Matplotlib-11557C?logo=python&logoColor=white" alt="Matplotlib">
+    <img src="https://img.shields.io/badge/-Tkinter-007ACC?logo=python&logoColor=white" alt="Tkinter">
+    <img src="https://img.shields.io/badge/-Pygame-3776AB?logo=python&logoColor=white" alt="Pygame">
+    <img src="https://img.shields.io/badge/-Telebot-2CA5E0?logo=telegram&logoColor=white" alt="Telebot">
+  </li>
+  <li><strong>Other Skills:</strong><br>
+    <img src="https://img.shields.io/badge/-Algorithms-000000?logo=bookstack&logoColor=white" alt="Algorithms">
+    <img src="https://img.shields.io/badge/-Data%20Structures-000000?logo=bookstack&logoColor=white" alt="Data Structures">
+    <img src="https://img.shields.io/badge/-Multithreading-FFD700?logo=threads&logoColor=black" alt="Multithreading">
+  </li>
+</ul>
 
 </div>
 
