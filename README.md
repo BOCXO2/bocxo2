@@ -34,7 +34,7 @@
 
  <hr/>
  
-<h2>💪 Skills</h2>
+<h2 align="center">💪 Skills</h2>
 
 <ul>
   <li><strong>Programming Languages:</strong><br>
