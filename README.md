@@ -34,22 +34,56 @@
 
  <hr/>
  
-<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
-<br/>
-<div align="center">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" width="50" height="50" alt="Python" />
-    <img src="https://static.djangoproject.com/img/logos/django-logo-negative.svg" width="90" height="50" alt="Django" />
-    <img src="https://fastapi.tiangolo.com/img/logo-margin/logo-teal.png" width="50" height="50" alt="FastAPI" />
-    <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" width="50" height="50" alt="HTML" />
-    <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" width="50" height="50" alt="CSS" />
-    <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" width="50" height="50" alt="Git" />
-    <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="50" height="50" alt="GitHub" />
-    <img src="https://www.docker.com/wp-content/uploads/2022/03/Moby-logo.png" width="50" height="50" alt="Docker" />
-    <img src="https://upload.wikimedia.org/wikipedia/commons/a/af/Tux.png" width="50" height="50" alt="Linux" />
-    <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" width="50" height="50" alt="VSCode" />
-    <img src="https://upload.wikimedia.org/wikipedia/en/d/dd/MySQL_logo.svg" width="70" height="50" alt="MySQL" />
-    <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/SQLite370.svg" width="50" height="50" alt="SQLite" />
-    <img src="https://upload.wikimedia.org/wikipedia/en/3/30/Java_programming_language_logo.svg" width="50" height="50" alt="Java" />
+## 💪 Skills
+
+- **Programming Languages**:  
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)  
+![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white)  
+![C++](https://img.shields.io/badge/-C%2B%2B-00599C?logo=cplusplus&logoColor=white)  
+![C#](https://img.shields.io/badge/-C%23-239120?logo=c-sharp&logoColor=white)  
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)  
+![HTML](https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=white)  
+![CSS](https://img.shields.io/badge/-CSS-1572B6?logo=css3&logoColor=white)
+
+- **Databases**:  
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white)  
+![SQLite](https://img.shields.io/badge/-SQLite-003B57?logo=sqlite&logoColor=white)  
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white)
+
+- **Web Development**:  
+![Django](https://img.shields.io/badge/-Django-092E20?logo=django&logoColor=white)  
+![FastAPI](https://img.shields.io/badge/-FastAPI-009688?logo=fastapi&logoColor=white)  
+![Flask](https://img.shields.io/badge/-Flask-000000?logo=flask&logoColor=white)  
+![HTML](https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=white)  
+![CSS](https://img.shields.io/badge/-CSS-1572B6?logo=css3&logoColor=white)
+
+- **Tools**:  
+![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)  
+![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white)  
+![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)  
+![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black)  
+![VS Code](https://img.shields.io/badge/-VS%20Code-0078D4?logo=visualstudiocode&logoColor=white)  
+![Qt](https://img.shields.io/badge/-Qt-41CD52?logo=qt&logoColor=white)
+
+- **Frameworks**:  
+![Django](https://img.shields.io/badge/-Django-092E20?logo=django&logoColor=white)  
+![FastAPI](https://img.shields.io/badge/-FastAPI-009688?logo=fastapi&logoColor=white)  
+![Flask](https://img.shields.io/badge/-Flask-000000?logo=flask&logoColor=white)  
+![Qt](https://img.shields.io/badge/-Qt-41CD52?logo=qt&logoColor=white)
+
+- **Libraries & Others**:  
+![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?logo=opencv&logoColor=white)  
+![NumPy](https://img.shields.io/badge/-NumPy-013243?logo=numpy&logoColor=white)  
+![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557C?logo=python&logoColor=white)  
+![Tkinter](https://img.shields.io/badge/-Tkinter-007ACC?logo=python&logoColor=white)  
+![Pygame](https://img.shields.io/badge/-Pygame-3776AB?logo=python&logoColor=white)  
+![Telebot](https://img.shields.io/badge/-Telebot-2CA5E0?logo=telegram&logoColor=white)
+
+- **Other Skills**:  
+![Algorithms](https://img.shields.io/badge/-Algorithms-000000?logo=bookstack&logoColor=white)  
+![Data Structures](https://img.shields.io/badge/-Data%20Structures-000000?logo=bookstack&logoColor=white)  
+![Multithreading](https://img.shields.io/badge/-Multithreading-FFD700?logo=threads&logoColor=black)
+
 </div>
 
 <br/>
